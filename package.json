@@ -14,6 +14,7 @@
     "author": "Andrey Chernykh",
     "license": "MIT",
     "dependencies": {
+        "@dasha.ai/sdk": "^0.6.5",
         "ffmpeg-static": "^4.2.8"
     }
 }
